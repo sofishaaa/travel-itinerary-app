@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TripPlanner</string>
+
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Відкрити меню</string>
+    <string name="navigation_drawer_close">Закрити меню</string>
+    <string name="nav_trips">Мої поїздки</string>
+    <string name="nav_add">Додати поїздку</string>
+    <string name="nav_statistics">Статистика</string>
+
+    <!-- Trip form -->
+    <string name="new_trip">Нова поїздка</string>
+    <string name="edit_trip">Редагувати поїздку</string>
+    <string name="trip_title">Назва поїздки</string>
+    <string name="trip_destination">Місце призначення</string>
+    <string name="trip_start_date">Дата початку (дд.мм.рррр)</string>
+    <string name="trip_end_date">Дата закінчення (дд.мм.рррр)</string>
+    <string name="trip_budget">Бюджет ($)</string>
+    <string name="trip_notes">Нотатки</string>
+    <string name="save_trip">Зберегти поїздку</string>
+    <string name="add_trip">Додати поїздку</string>
+
+    <!-- Messages -->
+    <string name="fill_required_fields">Заповніть всі обов\'язкові поля!</string>
+    <string name="trip_added">Поїздку додано!</string>
+    <string name="trip_updated">Поїздку оновлено!</string>
+
+    <!-- Detail screen -->
+    <string name="trip_details">Деталі поїздки</string>
+    <string name="no_notes">Немає нотаток</string>
+    <string name="delete_trip_title">Видалити поїздку?</string>
+    <string name="delete_trip_confirm">Ви впевнені що хочете видалити \"%s\"?</string>
+    <string name="btn_edit">Редагувати</string>
+    <string name="btn_delete">Видалити</string>
+    <string name="btn_delete_confirm">Видалити</string>
+    <string name="btn_cancel">Скасувати</string>
+
+    <!-- Empty state -->
+    <string name="empty_state_title">Поїздок ще немає</string>
+    <string name="empty_state_subtitle">Натисніть + щоб додати першу поїздку</string>
+
+    <!-- Statistics -->
+    <string name="statistics">Статистика</string>
+    <string name="stat_total_trips">Всього поїздок</string>
+    <string name="stat_total_budget">Загальний бюджет</string>
+    <string name="stat_avg_budget">Середній бюджет</string>
+    <string name="stat_most_expensive">Найдорожча поїздка</string>
+    <string name="stat_latest_trip">Остання додана поїздка</string>
+    <string name="no_data">Немає даних</string>
+</resources>
